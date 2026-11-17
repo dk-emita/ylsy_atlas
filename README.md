@@ -5,7 +5,6 @@ YLSY Atlas için Windows ve Android kurulum dosyaları.
 ## İndir
 
 - **Windows:** [YLSY-Atlas-v4.0.0-Setup.exe](https://github.com/dk-emita/ylsy_atlas/releases/download/v4.0.0/YLSY-Atlas-v4.0.0-Setup.exe)
-- **Android:** [YLSY-Atlas-android-v4.0.0.apk](https://github.com/dk-emita/ylsy_atlas/releases/download/v4.0.0/YLSY-Atlas-android-v4.0.0.apk)
 
 Kurulum dosyaları [Releases](https://github.com/dk-emita/ylsy_atlas/releases) bölümündedir. Kaynak kodlar ayrı depolarda paylaşılır:
 
